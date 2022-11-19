@@ -2,7 +2,7 @@
 
 ![](screenshot/about.png)
 
-Basic EFI folder to run macOS Big Sur on a MSI MAG X570 TOMAHAWK WIFI motherboard
+Basic EFI folder to run macOS Ventura on a MSI MAG X570 TOMAHAWK WIFI motherboard
 
 ### Build Specs
 
