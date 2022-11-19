@@ -41,7 +41,7 @@ Everything is working just fine for me **except**
 - [Opencore Guide][1]
 - [Internal Drives shown as external][3]
 
-- Credit to [theHari08]4 for the initial github.
+- Credit to [theHari08][4] for the initial github.
 
 [1]: https://dortania.github.io/OpenCore-Install-Guide
 [2]: https://github.com/AMD-OSX/AMD_Vanilla
