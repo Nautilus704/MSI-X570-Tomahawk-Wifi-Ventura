@@ -42,8 +42,10 @@ Everything is working just fine for me **except**
 - [Internal Drives shown as external][3]
 
 - Credit to [theHari08][4] for the initial github.
+- Credit and massive thanks to ExtremeXT on the [AMD Discord][5] server for helping me sort out some of the more complicated things.
 
 [1]: https://dortania.github.io/OpenCore-Install-Guide
 [2]: https://github.com/AMD-OSX/AMD_Vanilla
 [3]: https://www.reddit.com/r/hackintosh/comments/f0cc4t/internal_drives_shown_as_external_opencore_amd
 [4]: https://github.com/theHari08/MSI-MAG-X570-TOMAHAWK-WIFI-Hackintosh
+[5]: https://discord.gg/EfCYAJW
