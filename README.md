@@ -1,5 +1,7 @@
 ## Ryzentosh - Opencore EFI for MSI MAG X570 TOMAHAWK WIFI
 
+## I have shared this EFI as an EXAMPLE, do not copy and paste it and expect it to work. Make your own based on this.
+
 ![](screenshot/about.png)
 
 Basic EFI folder to run macOS Ventura on a MSI MAG X570 TOMAHAWK WIFI motherboard
