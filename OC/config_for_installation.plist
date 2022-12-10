@@ -804,6 +804,8 @@
 			<integer>0</integer>
 			<key>Timeout</key>
 			<integer>1</integer>
+			<key>HibernateSkipsPicker</key>
+			<false/>
 		</dict>
 		<key>Debug</key>
 		<dict>
@@ -841,7 +843,7 @@
 			<key>EnablePassword</key>
 			<false/>
 			<key>ExposeSensitiveData</key>
-			<integer>8</integer>
+			<integer>15</integer>
 			<key>HaltLevel</key>
 			<integer>2147483648</integer>
 			<key>PasswordHash</key>
