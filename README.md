@@ -46,6 +46,8 @@ Everything is working just fine for me **except**
 - Credit to [theHari08][4] for the initial github.
 - Credit and massive thanks to ExtremeXT on the [AMD Discord][5] server for helping me sort out some of the more complicated things.
 
+- Webhook test
+
 [1]: https://dortania.github.io/OpenCore-Install-Guide
 [2]: https://github.com/AMD-OSX/AMD_Vanilla
 [3]: https://www.reddit.com/r/hackintosh/comments/f0cc4t/internal_drives_shown_as_external_opencore_amd
