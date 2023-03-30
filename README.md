@@ -2,7 +2,7 @@
 
 ## I have shared this EFI as an EXAMPLE, do not copy and paste it and expect it to work. Make your own based on this.
 
-![](screenshot/about.png)
+![](screenshot/image.png)
 
 Basic EFI folder to run macOS Ventura on a MSI MAG X570 TOMAHAWK WIFI motherboard
 
@@ -28,11 +28,11 @@ Everything is working just fine for me **except**
 
 ### macOS Installation
 
-**OpenCore**            :   0.8.6
+**OpenCore**            :   0.9.0
 
 **Kernel AMD Patches**  :   [AMD OSX GitHub][2]
 
-**Version**             :   13.1 Beta (22C5050e) (Ventura) 
+**Version**             :   13.4 Beta (22F5027f) (Ventura) 
 
 **SMBIOS**              :   MacPro7,1
 
